@@ -1,6 +1,6 @@
 # The Best Coffee - By Region Website
 
-![Replace with your image](link-to-your-image.jpg)
+![website_screenshot](https://github.com/Joecode22/The-Best-Cofee-Regions/assets/93625431/7e21f207-d170-4488-8e51-4172849806ae)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -17,7 +17,7 @@
 "The Best Coffee - By Region" is a website dedicated to showcasing various coffee types and regions. This project presents a visually appealing and informative guide to the world of coffee, from bean types to regional specialties.
 
 ## Live Demo
-View the live demo of the project here: [The Best Coffee - By Region Live Demo](your-deployed-application-link)
+View the live demo of the project here: [The Best Coffee - By Region Live Demo](https://joecode22.github.io/The-Best-Cofee-Regions/)
 
 ## Features
 - **Informative Sections:** Detailed insights into different coffee types and regions.
@@ -41,6 +41,7 @@ $ cd [your-repo-name]
 
 # Open the index.html in your browser
 ```
+
 ## Usage
 This website is perfect for coffee enthusiasts or businesses wanting to showcase coffee-related content. Feel free to customize it according to your needs.
 
