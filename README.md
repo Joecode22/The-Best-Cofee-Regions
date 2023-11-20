@@ -55,7 +55,7 @@ Contributions make the open-source community thrive. If you wish to contribute:
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
 
 ## Contact
 Github Username: Joecode22
